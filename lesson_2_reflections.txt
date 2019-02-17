@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+When i initialize repository, system create hidden folder .git in current folder.
+I need to do it that to show git that i want to use version control for this folder.
+
+How is the staging area different from the working directory and repository? What value do you think it offers?
+
+I think staging area is different from the working directory and repository in the way, that it allow programmer to commit files in repository one by one or fewfiles at the same time. Operator add does not allow us to do that.
