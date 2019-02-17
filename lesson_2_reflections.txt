@@ -18,3 +18,8 @@ In such cases i will make changes only to extra branches but not in master branc
 How do the diagrams help you visualize the branch structure?
 
 Diagrams help me to visualize the branch structure in that way, that i can see what branches were created, after what commits and what commits they have.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When we merge two branches together commits from one branch add to another and git create one new commit that's usually called "Merge".
+That is why we represent it in in diagram like a new circle that is connected to two  branches.:
