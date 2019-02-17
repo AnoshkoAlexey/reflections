@@ -5,3 +5,7 @@ I need to do it that to show git that i want to use version control for this fol
 How is the staging area different from the working directory and repository? What value do you think it offers?
 
 I think staging area is different from the working directory and repository in the way, that it allow programmer to commit files in repository one by one or fewfiles at the same time. Operator add does not allow us to do that.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Using operator "git add" i can add all necessary files to staging area and then commit them to the repository at one time.
