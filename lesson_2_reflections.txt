@@ -23,3 +23,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 When we merge two branches together commits from one branch add to another and git create one new commit that's usually called "Merge".
 That is why we represent it in in diagram like a new circle that is connected to two  branches.:
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+One of the most important pros of automatic merging is that it can be done without human, just by computer. Git can decide itself what files it need to change.
+Then again if there is doubtful situation, where git can not be sure exactly what it need to keep as a result of merging, then it is really better to do merge 
+manually, coz in such case, we can be sure that all necessaries changes will be saved and noone of them will be lost.
