@@ -3,3 +3,10 @@ I would want to use a remote repository rather than keeping all my work local in
 when i would like to share my project with another people or when i would like to have a 
 copy of my repository in different place just in case if something will happen with my 
 local place
+
+Why migth you want to always pull changes manually rather than having Git automatically stay 
+up-to-date with your remote repository?
+
+I think it may be a good idea always pull changes manually coz in such case I can be sure that 
+noone will interrupt my job with their edits
+
