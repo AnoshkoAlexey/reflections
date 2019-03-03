@@ -10,3 +10,12 @@ up-to-date with your remote repository?
 I think it may be a good idea always pull changes manually coz in such case I can be sure that 
 noone will interrupt my job with their edits
 
+Describe the difference between forks, clones and branches. When would you use one instead of 
+another?
+
+Branch - we use it when want to add new feature and want to test it along the way, or, for example
+when we want to rewrite our code or try new settings 
+
+Clone - we use clone when we want to make copy of local or remote repository on our local machine
+
+Fork - we use fork when we want to make copy on remote repository on remote server
