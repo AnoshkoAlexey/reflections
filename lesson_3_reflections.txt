@@ -19,3 +19,8 @@ when we want to rewrite our code or try new settings
 Clone - we use clone when we want to make copy of local or remote repository on our local machine
 
 Fork - we use fork when we want to make copy on remote repository on remote server
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+If we have copy of the last known state of the remote stored locally we can use this information to stay as long 
+sync as possible while we are offline.
