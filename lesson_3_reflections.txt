@@ -24,3 +24,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 If we have copy of the last known state of the remote stored locally we can use this information to stay as long 
 sync as possible while we are offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would exchange files that i have changed with another person via shared disks, email, or some kind of messengers. It would be generally easier, coz we would not need to learn git and all commands that it has, but at the same time our collaboration project would really become a big mess, coz we would not have central place with all commentaries and problems
+
