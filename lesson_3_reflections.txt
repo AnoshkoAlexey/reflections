@@ -28,3 +28,6 @@ sync as possible while we are offline.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would exchange files that i have changed with another person via shared disks, email, or some kind of messengers. It would be generally easier, coz we would not need to learn git and all commands that it has, but at the same time our collaboration project would really become a big mess, coz we would not have central place with all commentaries and problems
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would make changes in a separate branch rather than directly in master in cases when I would want to keep my master branch always ready to go to the production. Also I would like to use branches when I would want to see changes that other programmers have made before putting them in master
+
